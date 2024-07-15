@@ -1,0 +1,23 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Ô‚şÿÿÿÿ8Ë´º‹2J$bd30858c-6ead-4d5d-8070-ed7ab234b487
+“	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²û±ö8Ì´º‹2J$c90fe970-1991-4392-a9dd-efd5a72bf8a9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ·óû8Ì´º‹2J$8dc832b8-a140-46c9-819b-f86c02b04367
+	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Í´º‹2J$621233d7-c531-41f7-b02b-7a67c1c3c065
+	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Í´º‹2J$527030f4-1df0-492d-b4e6-e3b40b6238c1
+X	java:S125"<This block of commented-out lines of code should be removed.(õå¹ı8ÄÄ»‹2
+r	java:S106'"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8Ø´º‹2J$8835892d-2da0-4ff2-81bc-7860274cc058
+¡
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Û´º‹2J$12ffb9bd-a194-4e53-a1f5-9dd5a7af61ab
+¡
+java:S2142S"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ü´º‹2J$a79528a6-c695-48ce-8585-042acda48608
+~	java:S125D"<This block of commented-out lines of code should be removed.(Ÿµ¨ì8Ëµòº‹2J$703d472b-8387-4975-ab35-05c800971b43
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(ğ¡¯Ãÿÿÿÿÿ8òª»‹2J$5ce89538-7457-4fa9-87c8-d25789f1d278
+ƒ	java:S125M"<This block of commented-out lines of code should be removed.(öÖü†ÿÿÿÿÿ8¤—»‹2J$be9c5ffa-b8d3-4a7a-a8c6-5b310a8ddbbc
+f
+java:S1128"Remove this duplicated import.(Õë±Äøÿÿÿÿ8ëûº‹2J$027060e2-08f5-4275-b515-14859597231c
+W
+java:S1128";Remove this unused import 'org.testng.Assert.assertEquals'.(ü¥ª8ÚÄ»‹2
+V
+java:S1128"9Remove this unused import 'org.testng.Assert.assertTrue'.(ĞÊ8ÚÄ»‹2
+@
+java:S1128"Remove this duplicated import.(Õë±Äøÿÿÿÿ8ÚÄ»‹2

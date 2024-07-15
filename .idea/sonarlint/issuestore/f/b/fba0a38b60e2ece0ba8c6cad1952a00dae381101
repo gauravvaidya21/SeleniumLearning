@@ -1,0 +1,6 @@
+
+П	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(п█к╚8╡╗т║Л2J$0d1d53df-f3cb-4e63-96d2-1835fbb39ba5
+б	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(■В└й     8╡╗т║Л2J$d2cd3d82-b6e9-4001-aa0b-e2f6e6c9d685
+Н	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(╥В╥щ№    8╢╗т║Л2J$a46824fd-3c45-4538-9f3f-44b99f4ae12a
+б
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(фа╣А8╝╗т║Л2J$558a41dc-3354-4c74-ad9b-8a161abd2401

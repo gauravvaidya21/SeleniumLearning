@@ -1,0 +1,8 @@
+
+˜	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÄ³÷ÿÿÿÿÿ8ÿœÊ±‹2J$6b64158d-d47b-4077-9a46-7143258b2853
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ĞµÉ±‹2J$abf9986a-ab08-4666-96c3-c138476e1303
+¡
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ìµÉ±‹2J$9dcd2ab1-83ae-4050-9196-344f689cbc95
+r	java:S1060"+Replace this use of System.out by a logger.(²¾¾ øÿÿÿÿ8°ÅÏ±‹2J$b68a5d6f-5ab1-4321-b4a7-8b66c5747420
+K
+java:S1128	".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8ÚŞĞ±‹2
