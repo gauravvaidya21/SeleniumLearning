@@ -1,0 +1,11 @@
+
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½àòÉ2J$aa004273-dddd-4dea-b282-225ca645237c
+”
+java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(À±±„8·ş÷É2
+r	java:S106("+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8ÆàòÉ2J$b884b3f2-60b8-47a6-bceb-0275fb5d92ad
+}	java:S125-"<This block of commented-out lines of code should be removed.(åŞà#8ÇàòÉ2J$7a0028ff-4e2b-406e-aa67-304597cf513f
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(Š§ŞÇùÿÿÿÿ8ÌàòÉ2J$163205c8-f990-4694-b4af-a6e3e91991d5
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(Æ«şÿÿÿÿ8ÌàòÉ2J$8139500e-5642-4bbd-9bfa-b3b10b663907
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(‚Ñ—àüÿÿÿÿ8ÖàòÉ2J$56194532-f7bc-4a4c-81bb-570e7f158b34
+¡
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖàòÉ2J$c5bc9d94-e1fa-4ba2-b1a6-495bcb6fce42

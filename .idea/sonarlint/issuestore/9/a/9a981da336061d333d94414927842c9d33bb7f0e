@@ -1,0 +1,10 @@
+
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÌ‘¯2J$d56ba121-008d-4d16-994f-376c3c9b2d08
+º
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÊˆÜø8Ï†•¯2J$9d98a25f-56ae-4416-953e-0e74eae47aa8
+y
+java:S1874""6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ï‡“¯2J$d5b649a3-a9db-49f1-8417-863c7d16135f
+r	java:S106'"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8ƒÌ‘¯2J$2209b431-2ec0-41ba-a3e1-d42bf3e0e09f
+~	java:S1250"<This block of commented-out lines of code should be removed.(ÓãÎ¬8ƒÌ‘¯2J$068d7cc7-4f26-4938-b24f-f90ce9d6ded4
+¡
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒÌ‘¯2J$5fe2f112-2391-41bc-8aa0-4f6883a1441c

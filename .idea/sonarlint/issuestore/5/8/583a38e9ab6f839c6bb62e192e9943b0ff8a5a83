@@ -1,0 +1,15 @@
+
+˜	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤İ×Õùÿÿÿÿ8€ĞÀŒŒ2J$db13fea4-d303-4e3e-b642-1f7a2200df7d
+’	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ééh8Âñ†Œ2J$ac6bf46b-1288-4f17-97aa-e9ab987a79d6
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È«ŒŒ2J$c3877e7f-df80-4d12-97ec-82a205d417bb
+g	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¡Š«¬Œ2
+~	java:S125"<This block of commented-out lines of code should be removed.(´ë®ÿ8—È«ŒŒ2J$31ff9628-b32c-4f49-8d2a-22a855189949
+r	java:S106"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8œÈ«ŒŒ2J$4d8510b5-3aa9-445d-b2be-16b9d680ce21
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8È«ŒŒ2J$7f2af3e5-49a8-495d-b9e2-08130d6fe3cf
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(¼Ó¥ÿúÿÿÿÿ8ŸÈ«ŒŒ2J$59115e2f-64df-4d5f-ac29-d9228bf495a5
+~	java:S125B"<This block of commented-out lines of code should be removed.(»˜ŸÂ8í“­ŒŒ2J$a41cba3f-483d-411a-aa85-1e8497660065
+ƒ	java:S125I"<This block of commented-out lines of code should be removed.(–ßœıÿÿÿÿ8µÚŒŒ2J$530d9507-d14e-43b3-8d75-586a9c3c381b
+~	java:S125X"<This block of commented-out lines of code should be removed.(ç¾ŸË8“£…Œ2J$b4e359f6-c0a6-44c0-93f5-3c8f27e80e84
+{
+java:S2142|"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÀŠ«¬Œ2

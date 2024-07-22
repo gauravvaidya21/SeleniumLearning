@@ -1,0 +1,11 @@
+
+	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8øâ¶Œ2J$9d7641c6-b177-4056-89da-10675185602c
+r	java:S106#"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8Ê’â¶Œ2J$93050b45-b211-425c-985b-6c26c5fb1dfc
+~	java:S1250"<This block of commented-out lines of code should be removed.(ÓãÎ¬8Ô’â¶Œ2J$97b6bc84-b445-41c4-a02d-72b1f7d45fd4
+~	java:S125<"<This block of commented-out lines of code should be removed.(íßëÖ8‹˜â¶Œ2J$b995df16-7d09-4abe-aacf-af69f27e8564
+r	java:S106G"+Replace this use of System.out by a logger.(‰€ñÀÿÿÿÿÿ8‹˜â¶Œ2J$72533767-f6fb-4c7c-b773-1b208904a506
+r	java:S106H"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹˜â¶Œ2J$e7073d08-b617-47c6-b011-b75f099082a3
+y
+java:S1874\"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8íËâ¶Œ2J$62ef4f25-7ba4-431f-a968-ee37909b1dcf
+¡
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹˜â¶Œ2J$8c0fe284-bef4-4843-8d02-69b0ea14356c

@@ -51,5 +51,7 @@ public class appointmentBooking {
 
         WebElement nextPage = driver.findElement(By.tagName("h2"));
         assertTrue(nextPage.isDisplayed(), "Make Appointment");
+
+
     }
 }

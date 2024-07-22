@@ -65,16 +65,15 @@ public class vwoPositiveLogin {
 
         //verify the message
 
-//        List<WebElement> dashboard_msg=driver.findElements(By.className("Fw(semi-bold) ng-binding"));
-//        WebElement first_classname=dashboard_msg.get(0);
-//
-//        Assert.assertEquals(first_classname.getText(),"Gaurav Vaidya");
+        WebElement dashboard_msg=driver.findElement(By.xpath("//span[@data-qa='lufexuloga']"));
+
+       Assert.assertEquals(dashboard_msg.getText(),"Gaurav Vaidya");
+
+        System.out.println(dashboard_msg.getText());
 
 
-//        WebElement nextPage = driver.findElement(By.tagName("span"));
-//        assertTrue(nextPage.isDisplayed(), "Gaurav Vaidya");
 
-        //assertThat("Hi V W,", Matchers.equalTo("Hi V W,"));
+
 
         //to see result
 

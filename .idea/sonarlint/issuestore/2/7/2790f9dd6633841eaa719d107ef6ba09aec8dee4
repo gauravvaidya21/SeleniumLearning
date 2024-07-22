@@ -1,0 +1,11 @@
+
+“	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’Ü¢8™»§±2J$a9016e6e-7000-460d-b3d0-6a3517d79286
+	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8™»§±2J$52610fdf-9a49-41d6-bdbb-519b282c4de7
+º
+java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÊˆÜø8Ñë«±2J$eba5224c-9573-4312-8896-7711dd2aae97
+r	java:S106("+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8´»§±2J$5d0d0a35-1681-4d7f-810d-4b82aca118d2
+}
+java:S11175":Rename "driver" which hides the field declared at line 21.(ê’Ü¢8Ü»§±2J$3b0eb1f4-bd76-4f69-a34b-3d41e81bb288
+r	java:S1068"+Replace this use of System.out by a logger.(ˆ¾öıùÿÿÿÿ8Ü»§±2J$c87c43f5-5dc2-444f-b696-caff8d9d9ba3
+¡
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ä»§±2J$98417099-cf22-48c4-bb7f-96573355dfd3

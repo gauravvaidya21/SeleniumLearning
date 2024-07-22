@@ -1,0 +1,7 @@
+
+“	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çïÏĞ8Î’ı°2J$6031f4a6-1e9d-4e22-9f03-9f3f96e957b2
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8İ’ı°2J$12fbe666-9d9b-40fd-978f-3bada7d0007b
+r	java:S106%"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8˜§ı°2J$fed04092-3158-4b0c-b478-6cd7195497f3
+r	java:S1060"+Replace this use of System.out by a logger.(ˆ¾öıùÿÿÿÿ8§§ı°2J$0518282d-ded5-4ee4-84fe-0c34c3fbe3a2
+¡
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8§§ı°2J$76dd67a4-5dee-43f5-928d-10128bfc736a

@@ -1,0 +1,8 @@
+
+˜	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦™ååıÿÿÿÿ8Ü±Õ¯2J$00148e06-8aa4-4904-ab8a-4251d531b0c5
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ü±Õ¯2J$7749e1ec-fff0-4fbf-a93f-97e8c320e4ec
+º
+java:S1130!"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÊˆÜø8üÜÙ¯2J$365b914e-6e17-430c-ad72-461d4f9cee1f
+r	java:S106'"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8ì±Õ¯2J$72ae6b92-85f6-49cc-82a3-efcd25cbdfee
+¡
+java:S2142="^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ì±Õ¯2J$6736d0f3-5639-48a9-a897-bd7984a1c5b0
