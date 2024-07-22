@@ -44,3 +44,5 @@ m
 =src/main/java/org/example/ex_selenium/ex_20072024/Lab325.java,8\d\8da1b42a9f25f16f40264a3e64f614645acd0783
 m
 =src/main/java/org/example/ex_selenium/ex_20072024/Lab326.java,b\c\bcc4f6e3ac7510745c7e69ae2c6a338e6bc42df8
+m
+=src/main/java/org/example/ex_selenium/ex_20072024/Lab327.java,c\a\caec8c0234e40de88c61142f94648e8ac1b06606

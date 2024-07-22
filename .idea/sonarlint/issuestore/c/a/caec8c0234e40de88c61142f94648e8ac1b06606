@@ -1,0 +1,16 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥«Âÿüÿÿÿÿ8‰ôÉÎ2J$fd84cce0-d8ba-44bd-9c38-d278be07a5f5
+˜	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÉ‚©üÿÿÿÿ8‰ôÉÎ2J$8dafe387-5a4c-455a-b30b-143ec1cc4447
+“	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ĞÇæ8‰ôÉÎ2J$8418b034-cc8f-432e-a639-c88bb56a716b
+˜	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úğæ•ıÿÿÿÿ8‰ôÉÎ2J$e573001d-5417-4090-840d-93110dcc7a23
+’	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğ€z8‰ôÉÎ2J$de188b18-5ea8-410c-90f6-dc8fa2451f29
+“	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶³Å8‰ôÉÎ2J$98c26709-c47c-443d-96db-d6a812a21136
+˜	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÿ¼…øÿÿÿÿ8‰ôÉÎ2J$13493619-256a-49ec-ab21-9dd482c15e63
+“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ ’¨8‰ôÉÎ2J$dfec4a39-1835-4bc4-ab7e-18b7c0103fb9
+˜	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³áà€úÿÿÿÿ8‰ôÉÎ2J$e8c8f41c-112d-4f98-88cd-77b9f17646d7
+º
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Õîë§8õÆÎÎ2J$5e7ee044-6a33-4335-a424-6f10317e68b0
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(›æ•´øÿÿÿÿ8¨ôÉÎ2J$8b0dfd02-f4a6-444b-9f74-7608c3bedae9
+r	java:S106D"+Replace this use of System.out by a logger.(şú±Ÿûÿÿÿÿ8¸ôÉÎ2J$e5047628-afd3-47e0-b5cc-70a62e900ed0
+r	java:S106E"+Replace this use of System.out by a logger.(µÁÁüÿÿÿÿ8½ôÉÎ2J$a079655f-acfe-43b7-bdfe-ed1bd81da1dd
+m	java:S106F"+Replace this use of System.out by a logger.(©±ì‚8½ôÉÎ2J$2e86c3fd-131f-4421-8a24-d3a39144e382
