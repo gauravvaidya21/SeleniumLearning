@@ -1,11 +1,13 @@
 
-˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çç®üÿÿÿÿ8¡¿ı»2J$459c8159-3f43-4a00-a525-bd82d8e23a67
-˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‡ÍÂıÿÿÿÿ8¡¿ı»2J$21b9f4fb-c9eb-4a28-88be-8377695d5dfd
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÁÔ8¡¿ı»2J$bcd0e070-59fa-441a-aca7-7a025ec15b3a
-‚
-java:S1854/":Remove this useless assignment to local variable "submit".(éÚ”åùÿÿÿÿ8±¿ı»2J$63b0e263-b4dd-469e-90c5-a1cad9c1988f
-”
-java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(®º…®8¸¥ÿ»2
-s
-java:S1481/"+Remove this unused "submit" local variable.(éÚ”åùÿÿÿÿ8±¿ı»2J$83a40633-5ed2-4b8d-96c1-a4260c97c676
-m	java:S1065"+Replace this use of System.out by a logger.(†š­ä8±¿ı»2J$8f07caca-5064-416d-bc91-7fe3fe981be1
+˜	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çç®üÿÿÿÿ8„’¶Ô2J$8b09166b-1ae6-4dd8-9da2-dd5aee3d0598
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ü§òùÿÿÿÿ8„’¶Ô2J$e9d4933b-c63f-4202-8f44-5df171abe031
+˜	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ ˆËüÿÿÿÿ8„’¶Ô2J$db4bc01a-7b9e-417b-8c87-2e32e09f57d7
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰µÎâıÿÿÿÿ8„’¶Ô2J$56a0876a-b328-4f7e-b7f8-261155ff1b81
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÁÔ8„’¶Ô2J$8576d996-1060-4f80-93ba-bfc1f527de27
+º
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(®º…®8’¶Ô2J$d07a23ca-d8b9-4aa8-9845-2e2c08544e06
+{
+java:S1481("3Remove this unused "amt_Total_Earn" local variable.(ƒ ˆËüÿÿÿÿ8Øß»Ô2J$4ea6b6e2-90e1-46d6-9a9e-e1d6fa20bbb4
+m	java:S106>"+Replace this use of System.out by a logger.(«íÊ8’¶Ô2J$61469c20-a817-4985-af16-0b64f1e23feb
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(ğÔ¢æÿÿÿÿÿ8’¶Ô2J$918f7ed7-7bf7-4950-b4dc-07b91af60e87
+m	java:S106W"+Replace this use of System.out by a logger.(™²‰¿8’¶Ô2J$cea8453c-304f-44ff-9109-817c640f0337
