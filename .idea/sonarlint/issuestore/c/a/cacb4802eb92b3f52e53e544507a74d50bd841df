@@ -1,0 +1,11 @@
+
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çç®üÿÿÿÿ8¡¿ı»2J$459c8159-3f43-4a00-a525-bd82d8e23a67
+˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‡ÍÂıÿÿÿÿ8¡¿ı»2J$21b9f4fb-c9eb-4a28-88be-8377695d5dfd
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÁÔ8¡¿ı»2J$bcd0e070-59fa-441a-aca7-7a025ec15b3a
+‚
+java:S1854/":Remove this useless assignment to local variable "submit".(éÚ”åùÿÿÿÿ8±¿ı»2J$63b0e263-b4dd-469e-90c5-a1cad9c1988f
+”
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(®º…®8¸¥ÿ»2
+s
+java:S1481/"+Remove this unused "submit" local variable.(éÚ”åùÿÿÿÿ8±¿ı»2J$83a40633-5ed2-4b8d-96c1-a4260c97c676
+m	java:S1065"+Replace this use of System.out by a logger.(†š­ä8±¿ı»2J$8f07caca-5064-416d-bc91-7fe3fe981be1

@@ -46,3 +46,11 @@ m
 =src/main/java/org/example/ex_selenium/ex_20072024/Lab326.java,b\c\bcc4f6e3ac7510745c7e69ae2c6a338e6bc42df8
 m
 =src/main/java/org/example/ex_selenium/ex_20072024/Lab327.java,c\a\caec8c0234e40de88c61142f94648e8ac1b06606
+m
+=src/main/java/org/example/ex_selenium/ex_23072024/Lab328.java,c\4\c4374b09c72ff02e24df071dcbe7f1873c9551f4
+m
+=src/main/java/org/example/ex_selenium/ex_23072024/Lab329.java,4\4\44163d464da1009862f69c635b436df3bac684ff
+n
+>src/main/java/org/example/ex_selenium/ex_23072024/Lab3330.java,8\6\86e4b8f198301accc8af9447f02a8dc6a8e57928
+w
+Gsrc/main/java/org/example/ex_selenium/PracticeTable/Tablecalculate.java,c\a\cacb4802eb92b3f52e53e544507a74d50bd841df

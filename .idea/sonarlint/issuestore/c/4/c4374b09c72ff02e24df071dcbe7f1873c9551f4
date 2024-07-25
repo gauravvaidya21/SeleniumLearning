@@ -1,0 +1,8 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çç®üÿÿÿÿ8–Õæù2J$7b3ace45-0446-4a40-ad1c-dc8c6b96946c
+˜	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‡ÍÂıÿÿÿÿ8–Õæù2J$ca545328-aac0-4697-982f-72c9a152418c
+º
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(®º…®8áíéù2J$5623562f-f3b6-430c-a812-afd438969f6f
+m	java:S106'"+Replace this use of System.out by a logger.(†š­ä8¿Õæù2J$acea17b8-bfda-4e2e-aee6-892e2ff198e8
+r	java:S106+"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ÏÕæù2J$dacac87f-973b-4d2d-8e33-31cf2dfbd914
+m	java:S106,"+Replace this use of System.out by a logger.(‹ÂÒ8ªŠïù2J$0068589c-f57c-4326-bcfe-3bb86ab31ae6
