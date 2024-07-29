@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îùä†J$e350095b-c89b-4a22-83d0-776f9604ac73
+‹
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(È¤µÌùÿÿÿÿ8Ñá½Ó2J$590a6393-03ea-4e71-84b3-455344e87aae
+y
+java:S1854$"7Remove this useless assignment to local variable "ele".(€Ãƒ8…¿¿Ó2J$8cbe872a-b58e-4858-a2ec-78b3193c263f
+º
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Õîë§8ÂáÃÓ2J$49b76a51-8610-4b1a-b678-700630fb0eeb
+Œ
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(±Ÿ—±ÿÿÿÿÿ8İáÃÓ2J$0590264f-4b3b-4237-8991-57750e528869
+j
+java:S1481$"(Remove this unused "ele" local variable.(€Ãƒ8›¿¿Ó2J$909da36d-4513-4f2a-a4c8-29c1ddbd5e73
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(¥“Šùÿÿÿÿ8¬¿¿Ó2J$78684084-7456-4f30-a882-c72031bc0c54

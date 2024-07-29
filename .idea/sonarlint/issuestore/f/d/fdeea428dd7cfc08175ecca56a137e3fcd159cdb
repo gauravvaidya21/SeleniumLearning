@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍùÜåüÿÿÿÿ8¯ª¤2J$6d2c3138-9898-45e6-b75b-0e26a82f29f8
+˜	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½âÍÈûÿÿÿÿ8¯ª¤2J$0b237e5b-8311-4a53-b847-b801b39ffde7
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îùä†8’·Í2
+º
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Õîë§8æª¤2J$75b40d96-55f8-4804-b282-e54e93431f33
+m	java:S106'"+Replace this use of System.out by a logger.(ßÊÂ8æª¤2J$1d7e4b8f-0f09-4f76-a4c0-4d2a1b2e31f8

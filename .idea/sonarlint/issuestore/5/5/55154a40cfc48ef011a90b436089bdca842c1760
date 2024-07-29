@@ -1,0 +1,7 @@
+
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÆ¸ë8œ¤óĞ2J$f7ca8cfd-ef07-4ee0-b029-5a8e7e78d57b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îùä†8œ¤óĞ2J$2faedbc5-2303-4b13-989b-1974af68ca3a
+m	java:S1063"+Replace this use of System.out by a logger.(À”ĞÎ8¬¤óĞ2J$c190e2c9-47d9-43d5-b67c-b46811129db8
+r	java:S1064"+Replace this use of System.out by a logger.(“€ğùÿÿÿÿ8¬¤óĞ2J$0383d83e-5f80-4642-acb7-4a3c4172e30e
+Œ
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8îæôĞ2J$c6fb974d-5067-4438-a5c7-f5850885bef6
